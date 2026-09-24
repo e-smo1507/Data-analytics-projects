@@ -304,12 +304,6 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ---
 
-## Author
-
-**Sarvesh Kumar Sharma**
-
-- GitHub: [@shsarv](https://github.com/shsarv)
-- LinkedIn: [in/shsarv](https://linkedin.com/in/shsarv)
 
 ---
 
